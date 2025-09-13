@@ -1,0 +1,14 @@
+{
+    "bot_token": "",
+    "lm_studio_url": "http://localhost:1234",
+    "lm_studio_model": "google/gemma-3-4b",
+    "guild_id": 0,
+    "spotify": {
+        "client_id": "",
+        "client_secret": "",
+        "refresh_token": "",
+        "device_id": null
+    }
+}
+
+
